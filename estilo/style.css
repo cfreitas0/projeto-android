@@ -67,7 +67,7 @@ main a:hover {
 header {
      background-image: linear-gradient(to bottom, var(--cor2), var(--cor5) );
      font-family: var(--fonte-destaque);  
-     min-height: 150px;
+     min-height: 200px;
      text-align: center;
      padding-top: 40px;   
 }
