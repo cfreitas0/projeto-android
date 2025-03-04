@@ -67,9 +67,10 @@ main a:hover {
 header {
      background-image: linear-gradient(to bottom, var(--cor2), var(--cor5) );
      font-family: var(--fonte-destaque);  
-     min-height: 200px;
+     min-height: 150px;
      text-align: center;
-     padding-top: 50px;   
+     padding-top: 50px; 
+     margin: auto;  
 }
 
 header >h1 {
@@ -114,7 +115,7 @@ nav > a:hover {
 
 main {
 
-     min-width: 400px;
+     min-width: 300px;
      max-width: 1000px;
      margin: auto;
      margin-bottom: 30px;
